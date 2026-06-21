@@ -14,5 +14,3 @@ A responsive currency converter built using HTML, CSS and JavaScript.
 
 ## Live Demo
 https://deepakkushwaha0422.github.io/currency-converter/
-
-## Screenshots
